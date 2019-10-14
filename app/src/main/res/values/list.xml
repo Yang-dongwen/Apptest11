@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="itemList">
+        <item>任务1</item>
+        <item>任务2</item>
+        <item>任务3</item>
+        <item>任务4</item>
+    </string-array>
+
+    <string-array name="itemList2">
+        <item>1|工资4000元，2015-5-11</item>
+        <item>2|奖金2000元，2015-5-20</item>
+        <item>3|股票5000元，2015-5-21</item>
+        <item>4|租金2300元，2015-5-27</item>
+    </string-array>
+</resources>
