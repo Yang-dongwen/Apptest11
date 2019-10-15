@@ -22,6 +22,9 @@
         <activity android:name=".Page22"></activity>
         <activity android:name=".Page23" />
         <activity android:name=".Page21"></activity>
+        <activity android:name=".Page41"/>
+        <activity android:name=".Page51"/>
+        <activity android:name=".Page52"/>
     </application>
 
 </manifest>

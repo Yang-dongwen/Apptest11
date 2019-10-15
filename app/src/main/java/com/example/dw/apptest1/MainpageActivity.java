@@ -33,6 +33,10 @@ public class MainpageActivity extends AppCompatActivity {
                         Intent intent1 = new Intent(MainpageActivity.this, Page41.class);
                         startActivity(intent1);
                         break;
+                    case 4:
+                        Intent intent2 = new Intent(MainpageActivity.this, Page51.class);
+                        startActivity(intent2);
+                        break;
                 }
             }
         });
